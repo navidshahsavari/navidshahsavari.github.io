@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Prediction of a ball trajectory for the humanoid robots: A friction-based study"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+excerpt: 'In this paper we proposed some online and offline method to predict the trajectory of a ball on ground. 
+date: 2018-10-01
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl:'https://www.researchgate.net/profile/Soroush_Sadeghnejad3/publication/325477718_Prediction_of_a_ball_trajectory_for_the_humanoid_robots_A_friction-based_study/links/5b104732aca2723d9978c212/Prediction-of-a-ball-trajectory-for-the-humanoid-robots-A-friction-based-study.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+In this paper we proposed some online and offline method to predict the trajectory of a ball on ground.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://www.researchgate.net/profile/Soroush_Sadeghnejad3/publication/325477718_Prediction_of_a_ball_trajectory_for_the_humanoid_robots_A_friction-based_study/links/5b104732aca2723d9978c212/Prediction-of-a-ball-trajectory-for-the-humanoid-robots-A-friction-based-study.pdf)
 
 Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
